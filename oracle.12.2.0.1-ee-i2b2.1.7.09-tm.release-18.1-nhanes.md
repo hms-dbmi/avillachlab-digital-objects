@@ -1,7 +1,6 @@
-# avillachlab-digital-objects
 
-### NHANES Oracle Database : 
-#### Quick-Start on Docker
+# NHANES Oracle Database Docker Image: 
+## Overview
 
 Database is pre-populated with the CDC NHANES public dataset (41,474 patients with ~1,300 variables)
 
